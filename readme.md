@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Manikanta Goud 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · CS Student @ Anurag University, Hyderabad · Open to Internships
+  <b>Full Stack Developer</b> · CSE Student @ Anurag University, Hyderabad · Open to Internships
 </p>
 
 <p align="center">
