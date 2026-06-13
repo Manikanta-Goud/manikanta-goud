@@ -24,7 +24,7 @@
 - 🌱 Learning **Docker, CI/CD, System Design**
 - 💼 Actively seeking **Full Stack / MERN / Backend internships**
 - 🚀 Built **Anurag Connect** — campus social platform with 30+ APIs & real-time messaging
-- 📫 Reach me at **23eg105j13@anurag.edu.in**
+- 📫 Reach me at **goudbmanikanta@gmail.com**
 
 ---
 
